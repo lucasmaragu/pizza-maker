@@ -25,7 +25,7 @@
 
 2. **Accede a la carpeta del proyecto**:
    ```bash
-   cd pizza-configurator
+   cd pizza-maker
    
 3. **Inicia el servidor de desarrollo**:
    ```bash
